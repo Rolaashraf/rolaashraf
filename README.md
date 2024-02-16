@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Merola
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Merola
 ==============================================================================================================================
 
-SIM\_student
+About me:
 ------------
 
 As a student in the SIM (Software Industry and Multimedia) department at Alexandria University, I revel in the dynamic intersection of technology and multimedia. Committed to learning and growth , I particularly enjoy the process of discovering new possibilities and bringing them to life through coding. From creative projects to technical challenges, let's embark on a journey of coding and creation together.
